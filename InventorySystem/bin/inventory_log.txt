@@ -1,0 +1,4 @@
+InventoryItem { ProductCode = P001, ProductName = Apple, Quantity = 50, Price = 1.50 }
+InventoryItem { ProductCode = P002, ProductName = Banana, Quantity = 100, Price = 0.75 }
+InventoryItem { ProductCode = P003, ProductName = Orange, Quantity = 80, Price = 1.20 }
+InventoryItem { ProductCode = P004, ProductName = Mango, Quantity = 40, Price = 2.50 }
