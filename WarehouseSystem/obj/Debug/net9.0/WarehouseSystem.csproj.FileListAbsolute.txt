@@ -1,0 +1,15 @@
+C:\Users\adukd\OneDrive\Desktop\dcit318-assignment3-11230801\WarehouseSystem\bin\Debug\net9.0\WarehouseSystem.exe
+C:\Users\adukd\OneDrive\Desktop\dcit318-assignment3-11230801\WarehouseSystem\bin\Debug\net9.0\WarehouseSystem.deps.json
+C:\Users\adukd\OneDrive\Desktop\dcit318-assignment3-11230801\WarehouseSystem\bin\Debug\net9.0\WarehouseSystem.runtimeconfig.json
+C:\Users\adukd\OneDrive\Desktop\dcit318-assignment3-11230801\WarehouseSystem\bin\Debug\net9.0\WarehouseSystem.dll
+C:\Users\adukd\OneDrive\Desktop\dcit318-assignment3-11230801\WarehouseSystem\bin\Debug\net9.0\WarehouseSystem.pdb
+C:\Users\adukd\OneDrive\Desktop\dcit318-assignment3-11230801\WarehouseSystem\obj\Debug\net9.0\WarehouseSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adukd\OneDrive\Desktop\dcit318-assignment3-11230801\WarehouseSystem\obj\Debug\net9.0\WarehouseSystem.AssemblyInfoInputs.cache
+C:\Users\adukd\OneDrive\Desktop\dcit318-assignment3-11230801\WarehouseSystem\obj\Debug\net9.0\WarehouseSystem.AssemblyInfo.cs
+C:\Users\adukd\OneDrive\Desktop\dcit318-assignment3-11230801\WarehouseSystem\obj\Debug\net9.0\WarehouseSystem.csproj.CoreCompileInputs.cache
+C:\Users\adukd\OneDrive\Desktop\dcit318-assignment3-11230801\WarehouseSystem\obj\Debug\net9.0\WarehouseSystem.sourcelink.json
+C:\Users\adukd\OneDrive\Desktop\dcit318-assignment3-11230801\WarehouseSystem\obj\Debug\net9.0\WarehouseSystem.dll
+C:\Users\adukd\OneDrive\Desktop\dcit318-assignment3-11230801\WarehouseSystem\obj\Debug\net9.0\refint\WarehouseSystem.dll
+C:\Users\adukd\OneDrive\Desktop\dcit318-assignment3-11230801\WarehouseSystem\obj\Debug\net9.0\WarehouseSystem.pdb
+C:\Users\adukd\OneDrive\Desktop\dcit318-assignment3-11230801\WarehouseSystem\obj\Debug\net9.0\WarehouseSystem.genruntimeconfig.cache
+C:\Users\adukd\OneDrive\Desktop\dcit318-assignment3-11230801\WarehouseSystem\obj\Debug\net9.0\ref\WarehouseSystem.dll
