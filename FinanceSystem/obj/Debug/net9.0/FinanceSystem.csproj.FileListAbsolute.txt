@@ -1,0 +1,14 @@
+C:\Users\adukd\OneDrive\Desktop\dcit318-assignment3-11230801\FinanceSystem\bin\Debug\net9.0\FinanceSystem.exe
+C:\Users\adukd\OneDrive\Desktop\dcit318-assignment3-11230801\FinanceSystem\bin\Debug\net9.0\FinanceSystem.deps.json
+C:\Users\adukd\OneDrive\Desktop\dcit318-assignment3-11230801\FinanceSystem\bin\Debug\net9.0\FinanceSystem.runtimeconfig.json
+C:\Users\adukd\OneDrive\Desktop\dcit318-assignment3-11230801\FinanceSystem\bin\Debug\net9.0\FinanceSystem.dll
+C:\Users\adukd\OneDrive\Desktop\dcit318-assignment3-11230801\FinanceSystem\bin\Debug\net9.0\FinanceSystem.pdb
+C:\Users\adukd\OneDrive\Desktop\dcit318-assignment3-11230801\FinanceSystem\obj\Debug\net9.0\FinanceSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adukd\OneDrive\Desktop\dcit318-assignment3-11230801\FinanceSystem\obj\Debug\net9.0\FinanceSystem.AssemblyInfoInputs.cache
+C:\Users\adukd\OneDrive\Desktop\dcit318-assignment3-11230801\FinanceSystem\obj\Debug\net9.0\FinanceSystem.AssemblyInfo.cs
+C:\Users\adukd\OneDrive\Desktop\dcit318-assignment3-11230801\FinanceSystem\obj\Debug\net9.0\FinanceSystem.csproj.CoreCompileInputs.cache
+C:\Users\adukd\OneDrive\Desktop\dcit318-assignment3-11230801\FinanceSystem\obj\Debug\net9.0\FinanceSystem.dll
+C:\Users\adukd\OneDrive\Desktop\dcit318-assignment3-11230801\FinanceSystem\obj\Debug\net9.0\refint\FinanceSystem.dll
+C:\Users\adukd\OneDrive\Desktop\dcit318-assignment3-11230801\FinanceSystem\obj\Debug\net9.0\FinanceSystem.pdb
+C:\Users\adukd\OneDrive\Desktop\dcit318-assignment3-11230801\FinanceSystem\obj\Debug\net9.0\FinanceSystem.genruntimeconfig.cache
+C:\Users\adukd\OneDrive\Desktop\dcit318-assignment3-11230801\FinanceSystem\obj\Debug\net9.0\ref\FinanceSystem.dll
