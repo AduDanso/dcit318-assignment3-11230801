@@ -1,0 +1,4 @@
+Grace Oduro (ID: 101): Score = 84, Grade = A
+Jacob Tettey (ID: 102): Score = 73, Grade = B
+Sandra Vulley (ID: 103): Score = 59, Grade = D
+Monica Okity (ID: 104): Score = 45, Grade = F

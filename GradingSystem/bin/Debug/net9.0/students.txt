@@ -1,0 +1,4 @@
+101,Grace Oduro,84
+102,Jacob Tettey,73
+103,Sandra Vulley,59
+104,Monica Okity,45
